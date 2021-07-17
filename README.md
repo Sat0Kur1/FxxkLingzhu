@@ -2,7 +2,7 @@
 # 這裏永久儲存這位高雅人的信息
 # 賬號可以不用，但是信息一定不刪
 ---
-[傳送門]https://greatdeeds.000webhostapp.com/
+[傳送門]{https://greatdeeds.000webhostapp.com/}
 # 詳細信息
 |||
 |:-:|:-:|
